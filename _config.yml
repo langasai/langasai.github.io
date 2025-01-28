@@ -1,6 +1,8 @@
 baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
+url: "https://langasai.github.io" 
+remote_theme: zerostaticthemes/jekyll-serif-theme
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
