@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Langas.AI'
 url: "https://langasai.github.io" 
 remote_theme: zerostaticthemes/jekyll-serif-theme
 
@@ -9,8 +9,8 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop_height: "56px"
+  desktop_width: "200px"
 
 home: 
   limit_services: 6

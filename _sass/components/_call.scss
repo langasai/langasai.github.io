@@ -35,7 +35,7 @@
     font-weight: bold;
   }
   .call-phone {
-    margin-bottom: 5px;
+    margin-bottom: 0px;
   }
   .call-email {
     a {
@@ -46,7 +46,7 @@
     font-weight: bold;
   }
   svg {
-    fill: lighten($secondary, 40%);
+    fill: lighten($secondary, 10%);
     position: absolute;
     bottom: -9px;
     right: 0;

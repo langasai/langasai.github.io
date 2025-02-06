@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "PhD-level Expertise",
+    "description": "All members of our team hold PhDs with research focuses in AI.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Transparency",
+    "description": "We are dedicated to honest communication about feasibility, results, and costs.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
