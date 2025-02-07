@@ -22,7 +22,6 @@ Language models are making movements in industries but how do we juggle the cost
 
 <aside>
 💡 The key is finding the right balance between cost, performance, and quality that aligns with your business needs and budget constraints
-
 </aside>
 
 ## Why is the compute cost an issue?
