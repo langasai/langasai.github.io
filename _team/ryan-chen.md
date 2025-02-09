@@ -3,7 +3,7 @@ title: "Ryan C"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/ryan.png"
 jobtitle: "Senior consultant"
-homepage: "https://www.linkedin.com/"
+homepage: "https://www.linkedin.com/in/rkcml"
 promoted: true
 weight: 1
 ---
